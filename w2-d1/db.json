@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "value": "todo 1",
+      "isCompleted": true
+    },
+    {
+      "id": 2,
+      "value": "todo 2",
+      "isCompleted": true
+    },
+    {
+      "id": 3,
+      "value": "todo 3",
+      "isCompleted": true
+    },
+    {
+      "value": "React",
+      "isCompleted": false,
+      "id": 4
+    },
+    {
+      "value": "useEffect",
+      "isCompleted": false,
+      "id": 5
+    },
+    {
+      "value": "pa",
+      "isCompleted": false,
+      "id": 6
+    }
+  ]
+}
